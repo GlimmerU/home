@@ -128,3 +128,20 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# valaxy
+fuse-list.json
+
+# vite-ssg
+.vite-ssg-dist
+.vite-ssg-temp
+
+# custom
+.idea
+.github
+.DS_Store
+*.local
+dist-ssr
+*.log
+components.d.ts
+

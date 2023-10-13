@@ -1,0 +1,10 @@
+# you can custom locale
+# intro:
+#   desc: Valaxy Template
+#   hi: Hello, Valaxy!
+
+about:
+  site: About site
+
+# contact:
+#   way: Contact Us

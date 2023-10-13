@@ -1,0 +1,10 @@
+# 你可以像这样自定义 i18n
+# intro:
+#   desc: Valaxy 模版
+#   hi: 你好，Valaxy
+
+about:
+  site: 关于本站
+
+# contact:
+#   way: 联系我们
