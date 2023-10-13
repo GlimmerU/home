@@ -60,4 +60,6 @@ In most cases, you only need to work in the `pages` folder.
 
 run `git clone git@github.com:GlimmerU/home.git` to clone this repo
 
-then `cd home`
+then run `cd home`
+
+run `npm i` or `pnpm i` to install dependencies
